@@ -1,7 +1,7 @@
 # keeper-app
 Website that keeps notes
 
-# Intrusctions
+# Intsructions
 - Clone repo locally
 - run npm install
 - run npm start
