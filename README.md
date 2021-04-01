@@ -1,5 +1,5 @@
 # keeper-app
-Website that keeps notes
+Using React to create a website that keeps notes
 
 # Intsructions
 - Clone repo locally
